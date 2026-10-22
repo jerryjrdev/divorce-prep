@@ -5,7 +5,7 @@ import os
 
 OUT = os.path.dirname(os.path.abspath(__file__))
 APP_NAME = "Divorce Prep"
-APPSTORE_URL = "https://apps.apple.com/app/id0000000000"  # TODO: replace with real App Store ID
+APPSTORE_URL = "https://apps.apple.com/app/id6825617653"
 DOMAIN = "https://jerryjrdev.github.io/divorce-prep"
 
 CSS = """
